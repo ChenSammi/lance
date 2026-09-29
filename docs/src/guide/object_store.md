@@ -636,7 +636,7 @@ Rust features required.
 
 #### Prerequisites
 
-1. A secure Ozone cluster with the S3 Gateway service running (default HTTP port `9878`, HTTPS port `9879`).
+1. A secure Ozone cluster(>= 2.2.0 version) with the S3 Gateway service running (default HTTP port `9878`, HTTPS port `9879`).
 2. An Ozone bucket created for Lance datasets, for example:
 
     ```bash
